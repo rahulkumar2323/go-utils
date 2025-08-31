@@ -1,0 +1,2 @@
+this content is written into the file 
+ hello
